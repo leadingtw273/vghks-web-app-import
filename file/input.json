@@ -1,0 +1,63 @@
+{
+  "encounterId": "",
+  "meta": {
+    "userId": "54654015",
+    "practitionerId": "5D8R45",
+    "date": "2020-03-30",
+    "serviceType": "06",
+    "rtnCode": "04",
+    "diagFinishTime": "",
+    "diagTime": "08: 30: 01"
+  },
+  "diagnostic": {
+    "reason": "For flu vaccination\r\nNo fever or acute illness\r\nDenied allergy to egg\r\nClear consciousness\r\nVital signs stable",
+    "icd": [
+      "E13.21",
+      "E10.9",
+      "A15.4",
+      "N18.9",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rtnCode": "00"
+  },
+  "medication": [
+    {
+      "drugId": " / ",
+      "drugName": " / ",
+      "method": "",
+      "timing": "",
+      "days": "",
+      "total": " / ",
+      "note": "",
+      "rtnCode": "02"
+    }
+  ],
+  "chk": "0",
+  "serviceRequest": [
+    {
+      "serviceId": "87465410",
+      "timestamp": "2020-04-21 / 17: 59: 32",
+      "occurence": "2020-04-27 / 17: 59: 00",
+      "code": {
+        "loinc": "24416",
+        "text": "URINE BIOCHEMISTRY EXAM. + O.B."
+      },
+      "rtnCode": "00"
+    },
+    {
+      "serviceId": "78241325",
+      "timestamp": "2020-04-21 / 17: 59: 32",
+      "occurence": "2020-04-27 / 17: 59: 00",
+      "code": {
+        "loinc": "24420",
+        "text": "Urine sediments"
+      },
+      "rtnCode": "00"
+    }
+  ]
+}
