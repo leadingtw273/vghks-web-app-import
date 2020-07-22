@@ -1,0 +1,624 @@
+[
+  {
+    "encounterId": "10_004",
+    "meta": {
+      "userId": "10_2275118",
+      "practitionerId": "10_3924I",
+      "date": "2020-04-22",
+      "serviceType": "01",
+      "rtnCode": "04",
+      "diagFinishTime": "",
+      "diagTime": "09:04:01"
+    },
+    "diagnostic": {
+      "reason": "stationary SCr, anemia+, stationary ALB, spirit ok\r\nno tarry stool\r\nappetite ok\r\n2020/4 stable, acceptable appetite, no peripheral edema, no uremic syndrome",
+      "icd": [
+        "N18.4",
+        "I13.10",
+        "L03.115",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": " / ",
+        "drugName": " / ",
+        "method": "",
+        "timing": "",
+        "days": "",
+        "total": " / ",
+        "note": "",
+        "rtnCode": "02"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_10730710",
+        "timestamp": "2020-04-22 / 09:04:26",
+        "occurence": "2020-05-15 / 08:20:03",
+        "code": {
+          "loinc": "25016",
+          "text": "Hb A1c"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_10730711",
+        "timestamp": "2020-04-22 / 09:04:26",
+        "occurence": "2020-05-15 / 08:31:39",
+        "code": {
+          "loinc": "25030",
+          "text": "TG,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_10730712",
+        "timestamp": "2020-04-22 / 09:04:26",
+        "occurence": "2020-05-15 / 08:31:39",
+        "code": {
+          "loinc": "25040",
+          "text": "HDL-C & CHOL.T.,LDL-C,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_10730713",
+        "timestamp": "2020-04-22 / 09:04:26",
+        "occurence": "2020-05-15 / 08:23:07",
+        "code": {
+          "loinc": "25060",
+          "text": "IP,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_10730714",
+        "timestamp": "2020-04-22 / 09:04:26",
+        "occurence": "2020-05-15 / 08:25:59",
+        "code": {
+          "loinc": "25010",
+          "text": "GLU, FASTING"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_10730715",
+        "timestamp": "2020-04-22 / 09:04:26",
+        "occurence": "2020-05-15 / 08:17:05",
+        "code": {
+          "loinc": "25000",
+          "text": "ALB,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_10730716",
+        "timestamp": "2020-04-22 / 09:04:26",
+        "occurence": "2020-05-15 / 08:17:05",
+        "code": {
+          "loinc": "25060",
+          "text": "CA,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_10730717",
+        "timestamp": "2020-04-22 / 09:04:26",
+        "occurence": "2020-05-15 / 08:17:05",
+        "code": {
+          "loinc": "25070",
+          "text": "BUN,CREA,K,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_10730718",
+        "timestamp": "2020-04-22 / 09:04:26",
+        "occurence": "2020-05-15 / 08:58:12",
+        "code": {
+          "loinc": "24001",
+          "text": "CBC,"
+        },
+        "rtnCode": "00"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_041",
+    "meta": {
+      "userId": "10_2275118",
+      "practitionerId": "10_3924I",
+      "date": "2020-05-20",
+      "serviceType": "01",
+      "rtnCode": "00",
+      "diagFinishTime": "1037",
+      "diagTime": "10:37:01"
+    },
+    "diagnostic": {
+      "reason": "stationary SCr, anemia+, stationary ALB, spirit ok\r\nno tarry stool\r\nappetite ok\r\n2020/5 stable, acceptable appetite, no peripheral edema, good spirit",
+      "icd": [
+        "N18.4",
+        "I13.10",
+        "L03.115",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": "BC24929100 / 07058",
+        "drugName": "Sevikar 5/20mg F.C. Tab / Sevikar 5/20mg F.C. Tab",
+        "method": "口服",
+        "timing": "BID",
+        "days": "28",
+        "total": "56 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "KC00952206 / 06133",
+        "drugName": "NESP Inj 60mcg/0.5ml(Plastic) / NESP Inj 60mcg/0.5ml(Plastic)",
+        "method": "皮下注射",
+        "timing": "STAT",
+        "days": "1",
+        "total": "1 / SYRG",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC21923100 / 11015",
+        "drugName": "Sodium Bicarbonate Tab 300mg / Sodium Bicarbonate Tab 300mg",
+        "method": "口服",
+        "timing": "TID",
+        "days": "28",
+        "total": "84 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC56780100 / 07068",
+        "drugName": "Micapine Tab 10mg(Lercanidipine) / Micapine Tab 10mg(Lercanidipine)",
+        "method": "口服",
+        "timing": "QPM",
+        "days": "28",
+        "total": "28 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC296301G0 / 19048",
+        "drugName": "Methycobal Cap 500ug \"Eisai\" / Methycobal Cap 500ug \"Eisai\"",
+        "method": "口服",
+        "timing": "TID",
+        "days": "28",
+        "total": "84 / CAP",
+        "note": "N",
+        "rtnCode": "00"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_11170770",
+        "timestamp": "2020-05-20 / 10:37:52",
+        "occurence": "2020-06-12 / 08:22:27",
+        "code": {
+          "loinc": "25060",
+          "text": "IP,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11170771",
+        "timestamp": "2020-05-20 / 10:37:52",
+        "occurence": "2020-06-12 / 08:15:48",
+        "code": {
+          "loinc": "25000",
+          "text": "ALB,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11170772",
+        "timestamp": "2020-05-20 / 10:37:52",
+        "occurence": "2020-06-12 / 08:15:48",
+        "code": {
+          "loinc": "25060",
+          "text": "CA,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11170773",
+        "timestamp": "2020-05-20 / 10:37:52",
+        "occurence": "2020-06-12 / 08:15:48",
+        "code": {
+          "loinc": "25070",
+          "text": "BUN,CREA,K,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11170774",
+        "timestamp": "2020-05-20 / 10:37:52",
+        "occurence": "2020-06-12 / 09:28:11",
+        "code": {
+          "loinc": "24001",
+          "text": "CBC,"
+        },
+        "rtnCode": "00"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_038",
+    "meta": {
+      "userId": "10_2275118",
+      "practitionerId": "10_3924I",
+      "date": "2020-06-17",
+      "serviceType": "01",
+      "rtnCode": "00",
+      "diagFinishTime": "1005",
+      "diagTime": "10:05:01"
+    },
+    "diagnostic": {
+      "reason": "stationary SCr, anemia+, stationary ALB, spirit ok\r\nno tarry stool\r\nappetite ok\r\n2020/6 stable, acceptable appetite, no peripheral edema, good spirit, K 5.9",
+      "icd": [
+        "N18.4",
+        "I13.10",
+        "L03.115",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": "BC24929100 / 07058",
+        "drugName": "Sevikar 5/20mg F.C. Tab / Sevikar 5/20mg F.C. Tab",
+        "method": "口服",
+        "timing": "BID",
+        "days": "28",
+        "total": "56 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "KC00952206 / 06133",
+        "drugName": "NESP Inj 60mcg/0.5ml(Plastic) / NESP Inj 60mcg/0.5ml(Plastic)",
+        "method": "皮下注射",
+        "timing": "STAT",
+        "days": "1",
+        "total": "1 / SYRG",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC21923100 / 11015",
+        "drugName": "Sodium Bicarbonate Tab 300mg / Sodium Bicarbonate Tab 300mg",
+        "method": "口服",
+        "timing": "TID",
+        "days": "28",
+        "total": "84 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC56780100 / 07068",
+        "drugName": "Micapine Tab 10mg(Lercanidipine) / Micapine Tab 10mg(Lercanidipine)",
+        "method": "口服",
+        "timing": "QPM",
+        "days": "28",
+        "total": "28 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC296301G0 / 19048",
+        "drugName": "Methycobal Cap 500ug \"Eisai\" / Methycobal Cap 500ug \"Eisai\"",
+        "method": "口服",
+        "timing": "TID",
+        "days": "28",
+        "total": "84 / CAP",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC49816100 / 11422",
+        "drugName": "Torsix Tab 5mg(Torsemide) / Torsix Tab 5mg(Torsemide)",
+        "method": "口服",
+        "timing": "QDPRN",
+        "days": "28",
+        "total": "56 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_11658067",
+        "timestamp": "2020-06-17 / 10:05:52",
+        "occurence": "2020-07-10 / 07:38:20",
+        "code": {
+          "loinc": "25016",
+          "text": "Hb A1c"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11658068",
+        "timestamp": "2020-06-17 / 10:05:52",
+        "occurence": "2020-07-10 / 08:21:57",
+        "code": {
+          "loinc": "25000",
+          "text": "ALB,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11658069",
+        "timestamp": "2020-06-17 / 10:05:52",
+        "occurence": "2020-07-10 / 08:21:57",
+        "code": {
+          "loinc": "25030",
+          "text": "TG,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11658070",
+        "timestamp": "2020-06-17 / 10:05:52",
+        "occurence": "2020-07-10 / 08:21:57",
+        "code": {
+          "loinc": "25040",
+          "text": "HDL-C & CHOL.T.,LDL-C,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11658071",
+        "timestamp": "2020-06-17 / 10:05:52",
+        "occurence": "2020-07-10 / 08:21:57",
+        "code": {
+          "loinc": "25060",
+          "text": "UA,IP,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11658072",
+        "timestamp": "2020-06-17 / 10:05:52",
+        "occurence": "2020-07-10 / 08:21:57",
+        "code": {
+          "loinc": "25070",
+          "text": "NA,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11658073",
+        "timestamp": "2020-06-17 / 10:05:52",
+        "occurence": "2020-07-10 / 07:55:39",
+        "code": {
+          "loinc": "25010",
+          "text": "GLU, FASTING"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11658074",
+        "timestamp": "2020-06-17 / 10:05:52",
+        "occurence": "2020-07-10 / 07:55:39",
+        "code": {
+          "loinc": "25060",
+          "text": "CA,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11658075",
+        "timestamp": "2020-06-17 / 10:05:52",
+        "occurence": "2020-07-10 / 07:55:39",
+        "code": {
+          "loinc": "25070",
+          "text": "BUN,CREA,K,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11658076",
+        "timestamp": "2020-06-17 / 10:05:52",
+        "occurence": "2020-07-10 / 07:53:49",
+        "code": {
+          "loinc": "24010",
+          "text": "CBC,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11658077",
+        "timestamp": "2020-06-17 / 10:05:52",
+        "occurence": "2020-07-10 / 09:25:53",
+        "code": {
+          "loinc": "39252",
+          "text": "Intact PTH (NM)"
+        },
+        "rtnCode": "00"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_030",
+    "meta": {
+      "userId": "10_2275118",
+      "practitionerId": "10_3924I",
+      "date": "2020-07-15",
+      "serviceType": "01",
+      "rtnCode": "00",
+      "diagFinishTime": "0949",
+      "diagTime": "09:49:01"
+    },
+    "diagnostic": {
+      "reason": "stationary SCr, anemia+, stationary ALB, spirit ok\r\nno tarry stool\r\nappetite ok\r\n2020/7 better SCr, stable HB, PTH 231",
+      "icd": [
+        "N18.4",
+        "I13.10",
+        "L03.115",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": "BC24929100 / 07058",
+        "drugName": "Sevikar 5/20mg F.C. Tab / Sevikar 5/20mg F.C. Tab",
+        "method": "口服",
+        "timing": "BID",
+        "days": "28",
+        "total": "56 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "KC00952206 / 06133",
+        "drugName": "NESP Inj 60mcg/0.5ml(Plastic) / NESP Inj 60mcg/0.5ml(Plastic)",
+        "method": "皮下注射",
+        "timing": "STAT",
+        "days": "1",
+        "total": "1 / SYRG",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC21923100 / 11015",
+        "drugName": "Sodium Bicarbonate Tab 300mg / Sodium Bicarbonate Tab 300mg",
+        "method": "口服",
+        "timing": "TID",
+        "days": "28",
+        "total": "84 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC56780100 / 07068",
+        "drugName": "Micapine Tab 10mg(Lercanidipine) / Micapine Tab 10mg(Lercanidipine)",
+        "method": "口服",
+        "timing": "QPM",
+        "days": "28",
+        "total": "28 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC296301G0 / 19048",
+        "drugName": "Methycobal Cap 500ug \"Eisai\" / Methycobal Cap 500ug \"Eisai\"",
+        "method": "口服",
+        "timing": "TID",
+        "days": "28",
+        "total": "84 / CAP",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC49816100 / 11422",
+        "drugName": "Torsix Tab 5mg(Torsemide) / Torsix Tab 5mg(Torsemide)",
+        "method": "口服",
+        "timing": "QDPRN",
+        "days": "28",
+        "total": "56 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "A024519343 / 20421",
+        "drugName": "Sinpharderm A.D.E. Cream 30gm / Sinpharderm A.D.E. Cream 30gm",
+        "method": "塗擦患部／局部塗擦",
+        "timing": "BID",
+        "days": "3",
+        "total": "1 / TUBE",
+        "note": "N",
+        "rtnCode": "00"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_12143133",
+        "timestamp": "2020-07-15 / 09:49:12",
+        "occurence": "2020-07-15 / 09:49:12",
+        "code": {
+          "loinc": "25000",
+          "text": "ALB,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_12143134",
+        "timestamp": "2020-07-15 / 09:49:12",
+        "occurence": "2020-07-15 / 09:49:12",
+        "code": {
+          "loinc": "25030",
+          "text": "TG,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_12143135",
+        "timestamp": "2020-07-15 / 09:49:12",
+        "occurence": "2020-07-15 / 09:49:12",
+        "code": {
+          "loinc": "25033",
+          "text": "LDL-C"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_12143136",
+        "timestamp": "2020-07-15 / 09:49:12",
+        "occurence": "2020-07-15 / 09:49:12",
+        "code": {
+          "loinc": "25070",
+          "text": "BUN,CREA,K,"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_12143137",
+        "timestamp": "2020-07-15 / 09:49:12",
+        "occurence": "2020-07-15 / 09:49:12",
+        "code": {
+          "loinc": "24001",
+          "text": "CBC,"
+        },
+        "rtnCode": "00"
+      }
+    ]
+  }
+]

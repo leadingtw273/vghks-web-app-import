@@ -54,7 +54,9 @@ exports.getId = async (
 
     return entry[entry.length - 1].resource.id;
   } catch (err) {
-    console.error(err.response.status);
-    console.error(err.response.data);
+    if (err.response != null) {
+      console.error(err.response.status);
+      console.error(err.response.data);
+    }
   }
 };

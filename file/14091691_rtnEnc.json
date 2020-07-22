@@ -1,0 +1,1031 @@
+[
+  {
+    "encounterId": "10_003",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_4369G",
+      "date": "2020-05-04",
+      "serviceType": "14",
+      "rtnCode": "04",
+      "diagFinishTime": "",
+      "diagTime": "11:34:01"
+    },
+    "diagnostic": {
+      "reason": "R't leg digits numbness complained \r\n\r\nR't > L't. but limited to digits. \r\n\r\nRelated to PAD??? or DM neuropathy??\r\n\r\nCTA: R't popliteal a. mod. to severe stenosis \r\nnot exacerbated on walking\r\n\r\nPost PTA and stenting on distal SFA on 20191204 with patent SFA and BTK runoffs.",
+      "icd": [
+        "N18.6",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": " / ",
+        "drugName": " / ",
+        "method": "",
+        "timing": "",
+        "days": "",
+        "total": " / ",
+        "note": "",
+        "rtnCode": "02"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_",
+        "timestamp": " / ",
+        "occurence": " / ",
+        "code": {
+          "loinc": "",
+          "text": ""
+        },
+        "rtnCode": "02"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_014",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_3924I",
+      "date": "2020-05-04",
+      "serviceType": "A7",
+      "rtnCode": "04",
+      "diagFinishTime": "",
+      "diagTime": "10:59:01"
+    },
+    "diagnostic": {
+      "reason": "Uremia under HD since 201310CCPD, HA-LA(201708)\r\n- CAD+   - PAOD, refused PTA, under CV\r\n- DM under insulin control, neuropathy,\r\n2nd hyperparathyroidism, but small size of\r\nparathyroid gland\r\n2nd HPT, with low bone mass, GS initially suggest f/u\r\nbil PAOD s/p R't PTA, with optimal result, much improved of claudication\r\n\r\n2020/5 stationary, anal fistula f/u LMD",
+      "icd": [
+        "N18.6",
+        "E11.8",
+        "E78.1",
+        "I10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": " / ",
+        "drugName": " / ",
+        "method": "",
+        "timing": "",
+        "days": "",
+        "total": " / ",
+        "note": "",
+        "rtnCode": "02"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_",
+        "timestamp": " / ",
+        "occurence": " / ",
+        "code": {
+          "loinc": "",
+          "text": ""
+        },
+        "rtnCode": "02"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_054",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_4702J",
+      "date": "2020-05-26",
+      "serviceType": "05",
+      "rtnCode": "00",
+      "diagFinishTime": "1423",
+      "diagTime": "14:21:01"
+    },
+    "diagnostic": {
+      "reason": "Acroparestehsia was complained for a long time time and worse recently\r\nSevere numbness \r\nPast history DM with ESRD\r\n\r\n\r\n20170126 SLeepy is complained recently. Drug:Pregabaline, Labol, and Clonazepam may be the cause of sleepy. Risk of OSA was also suspect and suggest to observe the respirtory pattern at home. Consider to taper Pregabalin if better in neuropathy\r\n\r\n20190108 Less numbness of lower limbs-->Consider to taper to QOD\r\n20190423 Tapering Pregabaline . Educated about sleep hyigene\r\n20190618 Numbness again after tapering Pregabaline. General skin itching\r\n20190813 still pain without pregabaline. Bilateral thigh pain, cause? Lumbar stenosis\r\n20191008 Still back pain and limitation in walking. Easily cough recently, cause?\r\n20191210 just discharge for PAOD post angiplasty.\r\n20200204 Planning to angioplasty recently. Still small joints arthrlagia. feet pain as before. lumbar stenosis is also conisder. Educated about exercise\r\n20200331 hand small joint tendonitis with trigger finger. PAOD that pending angioplasty\r\n20200526 Still leg disocmofrt without Lyrica",
+      "icd": [
+        "E08.40",
+        "N18.6",
+        "M79.2",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": "BC24995100 / 08431",
+        "drugName": "Lyrica HARD Cap 75mg(Pregabalin) / Lyrica HARD Cap 75mg(Pregabalin)",
+        "method": "口服",
+        "timing": "HS",
+        "days": "28",
+        "total": "28 / CAP",
+        "note": "N",
+        "rtnCode": "00"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_",
+        "timestamp": " / ",
+        "occurence": " / ",
+        "code": {
+          "loinc": "",
+          "text": ""
+        },
+        "rtnCode": "02"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_030",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_3897B",
+      "date": "2020-06-01",
+      "serviceType": "14",
+      "rtnCode": "00",
+      "diagFinishTime": "1053",
+      "diagTime": "10:51:01"
+    },
+    "diagnostic": {
+      "reason": "R't leg digits numbness complained \r\n\r\nR't > L't. but limited to digits. \r\n\r\nRelated to PAD??? or DM neuropathy??\r\n\r\nCTA: R't popliteal a. mod. to severe stenosis \r\nnot exacerbated on walking\r\n\r\nPost PTA and stenting on distal SFA on 20191204 with patent SFA and BTK runoffs.",
+      "icd": [
+        "N18.6",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": "AC48377100 / 07344",
+        "drugName": "Plestar Tab 100mg (Cilostazol) / Plestar Tab 100mg (Cilostazol)",
+        "method": "口服",
+        "timing": "BID",
+        "days": "28",
+        "total": "56 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AA48730100 / 06241",
+        "drugName": "Thrombifree Tab 75mg(Clopidogrel / Thrombifree Tab 75mg(Clopidogrel",
+        "method": "口服",
+        "timing": "QD",
+        "days": "28",
+        "total": "28 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_",
+        "timestamp": " / ",
+        "occurence": " / ",
+        "code": {
+          "loinc": "",
+          "text": ""
+        },
+        "rtnCode": "02"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_055",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_1960I",
+      "date": "2020-06-01",
+      "serviceType": "28",
+      "rtnCode": "00",
+      "diagFinishTime": "1636",
+      "diagTime": "16:36:01"
+    },
+    "diagnostic": {
+      "reason": "fall accideint 2 wks ago. contusion of buttock. still pain, but pain improved about 50%.",
+      "icd": [
+        "M16.0",
+        "M60.859",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": "BC23177100 / 09040",
+        "drugName": "Celebrex Cap 200mg(Celecoxib) / Celebrex Cap 200mg(Celecoxib)",
+        "method": "口服",
+        "timing": "BID",
+        "days": "14",
+        "total": "28 / CAP",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC110121G0 / 05421",
+        "drugName": "Sketa Cap / Sketa Cap",
+        "method": "口服",
+        "timing": "BID",
+        "days": "14",
+        "total": "28 / CAP",
+        "note": "N",
+        "rtnCode": "00"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_",
+        "timestamp": " / ",
+        "occurence": " / ",
+        "code": {
+          "loinc": "",
+          "text": ""
+        },
+        "rtnCode": "02"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_3859F",
+      "date": "2020-06-01",
+      "serviceType": "70",
+      "rtnCode": "04",
+      "diagFinishTime": "",
+      "diagTime": ""
+    },
+    "diagnostic": {
+      "reason": "20200601 BV ou\r\n20200330 BV os persist\r\n20200203 BV os\r\n20191209 BV ou\r\n20191112 Mild BV od\r\n20191111 BV, OS\r\n20190820 BV os persist\r\n20190723 BV os mild improve\r\n20190625\r\nBV os mild improve \r\n20190603\r\nBV os persist\r\n20190506\r\nBV os, for f/u \r\n20190215 blurred vision OS for half a year, ask for evaluation.",
+      "icd": [
+        "H34.812",
+        "H25.9",
+        "H40.89",
+        "E11.9",
+        "H04.123",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": " / ",
+        "drugName": " / ",
+        "method": "",
+        "timing": "",
+        "days": "",
+        "total": " / ",
+        "note": "",
+        "rtnCode": "02"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_11358485",
+        "timestamp": "2020-06-01 / 13:30:37",
+        "occurence": "2020-06-01 / 13:30:37",
+        "code": {
+          "loinc": "34063",
+          "text": "Pneumo Tonometry"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11358486",
+        "timestamp": "2020-06-01 / 13:30:37",
+        "occurence": "2020-06-01 / 13:30:37",
+        "code": {
+          "loinc": "42602",
+          "text": "Microsonography"
+        },
+        "rtnCode": "00"
+      },
+      {
+        "serviceId": "10_11367273",
+        "timestamp": "2020-06-01 / 17:22:24",
+        "occurence": "2020-06-01 / 17:22:24",
+        "code": {
+          "loinc": "42604",
+          "text": "DBR, free charge"
+        },
+        "rtnCode": "00"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_015",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_3924I",
+      "date": "2020-06-01",
+      "serviceType": "A7",
+      "rtnCode": "00",
+      "diagFinishTime": "1115",
+      "diagTime": "11:15:01"
+    },
+    "diagnostic": {
+      "reason": "Uremia under HD since 201310CCPD, HA-LA(201708)\r\n- CAD+   - PAOD, refused PTA, under CV\r\n- DM under insulin control, neuropathy,\r\n2nd hyperparathyroidism, but small size of\r\nparathyroid gland\r\n2nd HPT, with low bone mass, GS initially suggest f/u\r\nbil PAOD s/p R't PTA, with optimal result, much improved of claudication\r\n\r\n2020/6 poor diet control, with hyperP, stable BP",
+      "icd": [
+        "N18.6",
+        "E11.8",
+        "E78.1",
+        "I10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": "KC00869255 / 06125",
+        "drugName": "Mircera Inj 100mcg/0.3ml / Mircera Inj 100mcg/0.3ml",
+        "method": "皮下注射",
+        "timing": "STAT",
+        "days": "28",
+        "total": "1 / SYRG",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "A018644 / 20247",
+        "drugName": "Polvidine Sol 10% 100ml / Polvidine Sol 10% 100ml",
+        "method": "塗擦患部／局部塗擦",
+        "timing": "BID",
+        "days": "30",
+        "total": "1 / BOT",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC075431G0 / 19015",
+        "drugName": "Folic Acid Tab 5mg / Folic Acid Tab 5mg",
+        "method": "口服",
+        "timing": "QD",
+        "days": "30",
+        "total": "60 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC296301G0 / 19048",
+        "drugName": "Methycobal Cap 500ug \"Eisai\" / Methycobal Cap 500ug \"Eisai\"",
+        "method": "口服",
+        "timing": "BIDCC",
+        "days": "30",
+        "total": "60 / CAP",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "KC00820266 / 16371",
+        "drugName": "(FlexPen)NovoMix 30 300u/3ml / (FlexPen)NovoMix 30 300u/3ml",
+        "method": "皮下注射",
+        "timing": "BID-INSL",
+        "days": "30",
+        "total": "6 / VIAL",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC189491G0 / 13301",
+        "drugName": "Bisacodyl E.C. Tab 5mg / Bisacodyl E.C. Tab 5mg",
+        "method": "口服",
+        "timing": "HS",
+        "days": "30",
+        "total": "60 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "BC24929100 / 07058",
+        "drugName": "Sevikar 5/20mg F.C. Tab / Sevikar 5/20mg F.C. Tab",
+        "method": "口服",
+        "timing": "HS",
+        "days": "30",
+        "total": "30 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "BC17125100 / 07237",
+        "drugName": "5mg Concor 5 Tab(Bisoprolol) / 5mg Concor 5 Tab(Bisoprolol)",
+        "method": "口服",
+        "timing": "QD",
+        "days": "30",
+        "total": "15 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "A033686100 / 11188",
+        "drugName": "Calcium Carbonate Tab 500mg(Y.S) / Calcium Carbonate Tab 500mg(Y.S)",
+        "method": "口服",
+        "timing": "TID",
+        "days": "30",
+        "total": "180 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC48064100 / 07044",
+        "drugName": "4mg Lesyn F.C. Tab (Lacidipine) / 4mg Lesyn F.C. Tab (Lacidipine)",
+        "method": "口服",
+        "timing": "QD",
+        "days": "30",
+        "total": "30 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_",
+        "timestamp": " / ",
+        "occurence": " / ",
+        "code": {
+          "loinc": "",
+          "text": ""
+        },
+        "rtnCode": "02"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_3859F",
+      "date": "2020-06-03",
+      "serviceType": "37",
+      "rtnCode": "00",
+      "diagFinishTime": "0921",
+      "diagTime": "09:21:01"
+    },
+    "diagnostic": {
+      "reason": "20200601 BV ou\r\n20200330 BV os persist\r\n20200203 BV os\r\n20191209 BV ou\r\n20191112 Mild BV od\r\n20191111 BV, OS\r\n20190820 BV os persist\r\n20190723 BV os mild improve\r\n20190625\r\nBV os mild improve \r\n20190603\r\nBV os persist\r\n20190506\r\nBV os, for f/u \r\n20190215 blurred vision OS for half a year, ask for evaluation.",
+      "icd": [
+        "H25.9",
+        "H40.89",
+        "E11.9",
+        "H04.123",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": "A020707100 / 09001",
+        "drugName": "Depyretin Tab 500mg / Depyretin Tab 500mg",
+        "method": "口服",
+        "timing": "QIDPRN",
+        "days": "2",
+        "total": "8 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "BC24398421 / 20081",
+        "drugName": "Cravit Oph Sol 5ml(Levofloxacin) / Cravit Oph Sol 5ml(Levofloxacin)",
+        "method": "左眼",
+        "timing": "QID",
+        "days": "7",
+        "total": "1 / BOT",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC47124421 / 20632",
+        "drugName": "GENDERMIN Oph Oint 3mg/gm 5gm / GENDERMIN Oph Oint 3mg/gm 5gm",
+        "method": "左眼",
+        "timing": "HS",
+        "days": "7",
+        "total": "1 / TUBE",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC250581G0 / 08506",
+        "drugName": "Vanconin Tab 2mg(Diazepam) / Vanconin Tab 2mg(Diazepam)",
+        "method": "口服",
+        "timing": "ST",
+        "days": "1",
+        "total": "1 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AB03389100 / 11501",
+        "drugName": "250mg Acetazolamide Tab / 250mg Acetazolamide Tab",
+        "method": "口服",
+        "timing": "ST",
+        "days": "1",
+        "total": "1 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "BC18654421 / 20036",
+        "drugName": "Pred Forte Acetate Eye Drop 1% / Pred Forte Acetate Eye Drop 1%",
+        "method": "左眼",
+        "timing": "Q2H",
+        "days": "7",
+        "total": "1 / BOT",
+        "note": "N",
+        "rtnCode": "00"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_",
+        "timestamp": " / ",
+        "occurence": " / ",
+        "code": {
+          "loinc": "",
+          "text": ""
+        },
+        "rtnCode": "02"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_3859F",
+      "date": "2020-06-08",
+      "serviceType": "70",
+      "rtnCode": "04",
+      "diagFinishTime": "",
+      "diagTime": ""
+    },
+    "diagnostic": {
+      "reason": "20200608 BV os mild improve after cata op\r\n20200601 BV ou\r\n20200330 BV os persist\r\n20200203 BV os\r\n20191209 BV ou\r\n20191112 Mild BV od\r\n20191111 BV, OS\r\n20190820 BV os persist\r\n20190723 BV os mild improve\r\n20190625\r\nBV os mild improve \r\n20190603\r\nBV os persist\r\n20190506\r\nBV os, for f/u \r\n20190215 blurred vision OS for half a year, ask for evaluation.",
+      "icd": [
+        "H34.812",
+        "H25.9",
+        "H40.89",
+        "E11.9",
+        "H04.123",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": " / ",
+        "drugName": " / ",
+        "method": "",
+        "timing": "",
+        "days": "",
+        "total": " / ",
+        "note": "",
+        "rtnCode": "02"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_",
+        "timestamp": " / ",
+        "occurence": " / ",
+        "code": {
+          "loinc": "",
+          "text": ""
+        },
+        "rtnCode": "02"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_004",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_4252J",
+      "date": "2020-07-06",
+      "serviceType": "C1",
+      "rtnCode": "00",
+      "diagFinishTime": "1332",
+      "diagTime": "13:32:01"
+    },
+    "diagnostic": {
+      "reason": "Uremia under HD since 201310\r\nCCPD, HA-LA(201708) \r\n- CAD+   - PAOD, refused PTA, under CV \t \r\n- DM under insulin control, neuropathy, \r\n2nd hyperparathyroidism, but small size of parathyroid gland",
+      "icd": [
+        "N18.6",
+        "E11.8",
+        "E78.1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": "KC00820266 / 16371",
+        "drugName": "(FlexPen)NovoMix 30 300u/3ml / (FlexPen)NovoMix 30 300u/3ml",
+        "method": "皮下注射",
+        "timing": "BID-INSL",
+        "days": "10",
+        "total": "2 / VIAL",
+        "note": "N",
+        "rtnCode": "00"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_",
+        "timestamp": " / ",
+        "occurence": " / ",
+        "code": {
+          "loinc": "",
+          "text": ""
+        },
+        "rtnCode": "02"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_025",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_3859F",
+      "date": "2020-07-09",
+      "serviceType": "70",
+      "rtnCode": "00",
+      "diagFinishTime": "1518",
+      "diagTime": "10:10:01"
+    },
+    "diagnostic": {
+      "reason": "20200709 mild BV in left eye\r\n20200608 BV os mild improve after cata op\r\n20200601 BV ou\r\n20200330 BV os persist\r\n20200203 BV os\r\n20191209 BV ou\r\n20191112 Mild BV od\r\n20191111 BV, OS\r\n20190820 BV os persist\r\n20190723 BV os mild improve\r\n20190625\r\nBV os mild improve \r\n20190603\r\nBV os persist\r\n20190506\r\nBV os, for f/u \r\n20190215 blurred vision OS for half a year, ask for evaluation.",
+      "icd": [
+        "H34.812",
+        "H25.9",
+        "H40.89",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": "BC18654421 / 20036",
+        "drugName": "Pred Forte Acetate Eye Drop 1% / Pred Forte Acetate Eye Drop 1%",
+        "method": "左眼",
+        "timing": "QID",
+        "days": "14",
+        "total": "1 / BOT",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "BC21545414 / 20048",
+        "drugName": "Timolol gel-forming Eye Drop0.5% / Timolol gel-forming Eye Drop0.5%",
+        "method": "兩眼",
+        "timing": "QAM",
+        "days": "28",
+        "total": "2 / BOT",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "BC26946421 / 20634",
+        "drugName": "Simbrinza Eye Drop 5ml / Simbrinza Eye Drop 5ml",
+        "method": "兩眼",
+        "timing": "BID",
+        "days": "28",
+        "total": "2 / BOT",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "BC24330429 / 20085",
+        "drugName": "Liposic Eye Gel 0.2%(Carbomer) / Liposic Eye Gel 0.2%(Carbomer)",
+        "method": "兩眼",
+        "timing": "TID",
+        "days": "28",
+        "total": "1 / TUBE",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "B024011 / 20612",
+        "drugName": "Vigamox Oph Sol 0.5% 5ml / Vigamox Oph Sol 0.5% 5ml",
+        "method": "左眼",
+        "timing": "Q2H",
+        "days": "14",
+        "total": "1 / BOT",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC32282429 / 03603",
+        "drugName": "Chloramphenicol Eye Drop 0.25% / Chloramphenicol Eye Drop 0.25%",
+        "method": "左眼",
+        "timing": "QID",
+        "days": "14",
+        "total": "1 / BOT",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC44167421 / 20638",
+        "drugName": "FOXone Eye Drop 0.1% 5ml / FOXone Eye Drop 0.1% 5ml",
+        "method": "左眼",
+        "timing": "QID",
+        "days": "14",
+        "total": "1 / BOT",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "BC24398421 / 20081",
+        "drugName": "Cravit Oph Sol 5ml(Levofloxacin) / Cravit Oph Sol 5ml(Levofloxacin)",
+        "method": "左眼",
+        "timing": "QID",
+        "days": "14",
+        "total": "1 / BOT",
+        "note": "N",
+        "rtnCode": "00"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_12045889",
+        "timestamp": "2020-07-09 / 10:32:24",
+        "occurence": "2020-07-09 / 10:32:24",
+        "code": {
+          "loinc": "34063",
+          "text": "Pneumo Tonometry"
+        },
+        "rtnCode": "00"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_003",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_3897B",
+      "date": "2020-07-13",
+      "serviceType": "14",
+      "rtnCode": "04",
+      "diagFinishTime": "",
+      "diagTime": "09:23:01"
+    },
+    "diagnostic": {
+      "reason": "R't leg digits numbness complained \r\n\r\nR't > L't. but limited to digits. \r\n\r\nRelated to PAD??? or DM neuropathy??\r\n\r\nCTA: R't popliteal a. mod. to severe stenosis \r\nnot exacerbated on walking\r\n\r\nPost PTA and stenting on distal SFA on 20191204 with patent SFA and BTK runoffs.\r\nPost PTA and stenting on distal SFA on 20200702 with patent SFA and BTK runoffs.",
+      "icd": [
+        "N18.6",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": " / ",
+        "drugName": " / ",
+        "method": "",
+        "timing": "",
+        "days": "",
+        "total": " / ",
+        "note": "",
+        "rtnCode": "02"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_",
+        "timestamp": " / ",
+        "occurence": " / ",
+        "code": {
+          "loinc": "",
+          "text": ""
+        },
+        "rtnCode": "02"
+      }
+    ]
+  },
+  {
+    "encounterId": "10_001",
+    "meta": {
+      "userId": "10_14091691",
+      "practitionerId": "10_3924I",
+      "date": "2020-07-15",
+      "serviceType": "A7",
+      "rtnCode": "00",
+      "diagFinishTime": "0906",
+      "diagTime": "09:06:01"
+    },
+    "diagnostic": {
+      "reason": "Uremia under HD since 201310CCPD, HA-LA(201708)\r\n- CAD+   - PAOD, refused PTA, under CV\r\n- DM under insulin control, neuropathy,\r\n2nd hyperparathyroidism, but small size of\r\nparathyroid gland\r\n2nd HPT, with low bone mass, GS initially suggest f/u\r\nbil PAOD s/p bil PTA, with optimal result, much improved of claudication\r\n\r\n2020/7 s/p bil PTA, 2nd HPT",
+      "icd": [
+        "N18.6",
+        "E11.8",
+        "E78.1",
+        "I10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rtnCode": "00"
+    },
+    "medication": [
+      {
+        "drugId": "A018644 / 20247",
+        "drugName": "Polvidine Sol 10% 100ml / Polvidine Sol 10% 100ml",
+        "method": "塗擦患部／局部塗擦",
+        "timing": "BID",
+        "days": "1",
+        "total": "1 / BOT",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC075431G0 / 19015",
+        "drugName": "Folic Acid Tab 5mg / Folic Acid Tab 5mg",
+        "method": "口服",
+        "timing": "QD",
+        "days": "21",
+        "total": "42 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC296301G0 / 19048",
+        "drugName": "Methycobal Cap 500ug \"Eisai\" / Methycobal Cap 500ug \"Eisai\"",
+        "method": "口服",
+        "timing": "BIDCC",
+        "days": "21",
+        "total": "42 / CAP",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "KC00820266 / 16371",
+        "drugName": "(FlexPen)NovoMix 30 300u/3ml / (FlexPen)NovoMix 30 300u/3ml",
+        "method": "皮下注射",
+        "timing": "BID-INSL",
+        "days": "21",
+        "total": "4 / VIAL",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC189491G0 / 13301",
+        "drugName": "Bisacodyl E.C. Tab 5mg / Bisacodyl E.C. Tab 5mg",
+        "method": "口服",
+        "timing": "HS",
+        "days": "21",
+        "total": "21 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "BC24929100 / 07058",
+        "drugName": "Sevikar 5/20mg F.C. Tab / Sevikar 5/20mg F.C. Tab",
+        "method": "口服",
+        "timing": "HS",
+        "days": "21",
+        "total": "21 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "BC17125100 / 07237",
+        "drugName": "5mg Concor 5 Tab(Bisoprolol) / 5mg Concor 5 Tab(Bisoprolol)",
+        "method": "口服",
+        "timing": "QD",
+        "days": "21",
+        "total": "11 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "A033686100 / 11188",
+        "drugName": "Calcium Carbonate Tab 500mg(Y.S) / Calcium Carbonate Tab 500mg(Y.S)",
+        "method": "口服",
+        "timing": "TID",
+        "days": "21",
+        "total": "63 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC48064100 / 07044",
+        "drugName": "4mg Lesyn F.C. Tab (Lacidipine) / 4mg Lesyn F.C. Tab (Lacidipine)",
+        "method": "口服",
+        "timing": "QD",
+        "days": "21",
+        "total": "21 / TAB",
+        "note": "N",
+        "rtnCode": "00"
+      },
+      {
+        "drugId": "AC40864100 / 19053",
+        "drugName": "U-Ca Soft Cap 0.25mcg / U-Ca Soft Cap 0.25mcg",
+        "method": "口服",
+        "timing": "TIW",
+        "days": "21",
+        "total": "9 / CAP",
+        "note": "N",
+        "rtnCode": "00"
+      }
+    ],
+    "chk": "0",
+    "serviceRequest": [
+      {
+        "serviceId": "10_",
+        "timestamp": " / ",
+        "occurence": " / ",
+        "code": {
+          "loinc": "",
+          "text": ""
+        },
+        "rtnCode": "02"
+      }
+    ]
+  }
+]
