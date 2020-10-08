@@ -7,9 +7,8 @@ const idCollection = {
   patientId: null,
   practitionerId: null,
   encounterId: null,
-  organizationId: '17',
+  organizationId: '1', // dev: 17, pro: 1
   serviceRequestId: [],
-  diagnosticReportId: null,
   medicationId: null,
   conditionId: [],
 };

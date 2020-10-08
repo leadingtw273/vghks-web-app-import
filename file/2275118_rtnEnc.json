@@ -1,9 +1,9 @@
 [
   {
-    "encounterId": "10_004",
+    "encounterId": "004",
     "meta": {
-      "userId": "10_2275118",
-      "practitionerId": "10_3924I",
+      "userId": "2275118",
+      "practitionerId": "3924I",
       "date": "2020-04-22",
       "serviceType": "01",
       "rtnCode": "04",
@@ -41,7 +41,7 @@
     "chk": "0",
     "serviceRequest": [
       {
-        "serviceId": "10_10730710",
+        "serviceId": "10730710",
         "timestamp": "2020-04-22 / 09:04:26",
         "occurence": "2020-05-15 / 08:20:03",
         "code": {
@@ -51,7 +51,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_10730711",
+        "serviceId": "10730711",
         "timestamp": "2020-04-22 / 09:04:26",
         "occurence": "2020-05-15 / 08:31:39",
         "code": {
@@ -61,7 +61,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_10730712",
+        "serviceId": "10730712",
         "timestamp": "2020-04-22 / 09:04:26",
         "occurence": "2020-05-15 / 08:31:39",
         "code": {
@@ -71,7 +71,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_10730713",
+        "serviceId": "10730713",
         "timestamp": "2020-04-22 / 09:04:26",
         "occurence": "2020-05-15 / 08:23:07",
         "code": {
@@ -81,7 +81,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_10730714",
+        "serviceId": "10730714",
         "timestamp": "2020-04-22 / 09:04:26",
         "occurence": "2020-05-15 / 08:25:59",
         "code": {
@@ -91,7 +91,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_10730715",
+        "serviceId": "10730715",
         "timestamp": "2020-04-22 / 09:04:26",
         "occurence": "2020-05-15 / 08:17:05",
         "code": {
@@ -101,7 +101,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_10730716",
+        "serviceId": "10730716",
         "timestamp": "2020-04-22 / 09:04:26",
         "occurence": "2020-05-15 / 08:17:05",
         "code": {
@@ -111,7 +111,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_10730717",
+        "serviceId": "10730717",
         "timestamp": "2020-04-22 / 09:04:26",
         "occurence": "2020-05-15 / 08:17:05",
         "code": {
@@ -121,7 +121,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_10730718",
+        "serviceId": "10730718",
         "timestamp": "2020-04-22 / 09:04:26",
         "occurence": "2020-05-15 / 08:58:12",
         "code": {
@@ -133,10 +133,10 @@
     ]
   },
   {
-    "encounterId": "10_041",
+    "encounterId": "041",
     "meta": {
-      "userId": "10_2275118",
-      "practitionerId": "10_3924I",
+      "userId": "2275118",
+      "practitionerId": "3924I",
       "date": "2020-05-20",
       "serviceType": "01",
       "rtnCode": "00",
@@ -214,7 +214,7 @@
     "chk": "0",
     "serviceRequest": [
       {
-        "serviceId": "10_11170770",
+        "serviceId": "11170770",
         "timestamp": "2020-05-20 / 10:37:52",
         "occurence": "2020-06-12 / 08:22:27",
         "code": {
@@ -224,7 +224,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11170771",
+        "serviceId": "11170771",
         "timestamp": "2020-05-20 / 10:37:52",
         "occurence": "2020-06-12 / 08:15:48",
         "code": {
@@ -234,7 +234,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11170772",
+        "serviceId": "11170772",
         "timestamp": "2020-05-20 / 10:37:52",
         "occurence": "2020-06-12 / 08:15:48",
         "code": {
@@ -244,7 +244,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11170773",
+        "serviceId": "11170773",
         "timestamp": "2020-05-20 / 10:37:52",
         "occurence": "2020-06-12 / 08:15:48",
         "code": {
@@ -254,7 +254,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11170774",
+        "serviceId": "11170774",
         "timestamp": "2020-05-20 / 10:37:52",
         "occurence": "2020-06-12 / 09:28:11",
         "code": {
@@ -266,10 +266,10 @@
     ]
   },
   {
-    "encounterId": "10_038",
+    "encounterId": "038",
     "meta": {
-      "userId": "10_2275118",
-      "practitionerId": "10_3924I",
+      "userId": "2275118",
+      "practitionerId": "3924I",
       "date": "2020-06-17",
       "serviceType": "01",
       "rtnCode": "00",
@@ -357,7 +357,7 @@
     "chk": "0",
     "serviceRequest": [
       {
-        "serviceId": "10_11658067",
+        "serviceId": "11658067",
         "timestamp": "2020-06-17 / 10:05:52",
         "occurence": "2020-07-10 / 07:38:20",
         "code": {
@@ -367,7 +367,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11658068",
+        "serviceId": "11658068",
         "timestamp": "2020-06-17 / 10:05:52",
         "occurence": "2020-07-10 / 08:21:57",
         "code": {
@@ -377,7 +377,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11658069",
+        "serviceId": "11658069",
         "timestamp": "2020-06-17 / 10:05:52",
         "occurence": "2020-07-10 / 08:21:57",
         "code": {
@@ -387,7 +387,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11658070",
+        "serviceId": "11658070",
         "timestamp": "2020-06-17 / 10:05:52",
         "occurence": "2020-07-10 / 08:21:57",
         "code": {
@@ -397,7 +397,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11658071",
+        "serviceId": "11658071",
         "timestamp": "2020-06-17 / 10:05:52",
         "occurence": "2020-07-10 / 08:21:57",
         "code": {
@@ -407,7 +407,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11658072",
+        "serviceId": "11658072",
         "timestamp": "2020-06-17 / 10:05:52",
         "occurence": "2020-07-10 / 08:21:57",
         "code": {
@@ -417,7 +417,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11658073",
+        "serviceId": "11658073",
         "timestamp": "2020-06-17 / 10:05:52",
         "occurence": "2020-07-10 / 07:55:39",
         "code": {
@@ -427,7 +427,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11658074",
+        "serviceId": "11658074",
         "timestamp": "2020-06-17 / 10:05:52",
         "occurence": "2020-07-10 / 07:55:39",
         "code": {
@@ -437,7 +437,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11658075",
+        "serviceId": "11658075",
         "timestamp": "2020-06-17 / 10:05:52",
         "occurence": "2020-07-10 / 07:55:39",
         "code": {
@@ -447,7 +447,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11658076",
+        "serviceId": "11658076",
         "timestamp": "2020-06-17 / 10:05:52",
         "occurence": "2020-07-10 / 07:53:49",
         "code": {
@@ -457,7 +457,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_11658077",
+        "serviceId": "11658077",
         "timestamp": "2020-06-17 / 10:05:52",
         "occurence": "2020-07-10 / 09:25:53",
         "code": {
@@ -469,10 +469,10 @@
     ]
   },
   {
-    "encounterId": "10_030",
+    "encounterId": "030",
     "meta": {
-      "userId": "10_2275118",
-      "practitionerId": "10_3924I",
+      "userId": "2275118",
+      "practitionerId": "3924I",
       "date": "2020-07-15",
       "serviceType": "01",
       "rtnCode": "00",
@@ -570,7 +570,7 @@
     "chk": "0",
     "serviceRequest": [
       {
-        "serviceId": "10_12143133",
+        "serviceId": "12143133",
         "timestamp": "2020-07-15 / 09:49:12",
         "occurence": "2020-07-15 / 09:49:12",
         "code": {
@@ -580,7 +580,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_12143134",
+        "serviceId": "12143134",
         "timestamp": "2020-07-15 / 09:49:12",
         "occurence": "2020-07-15 / 09:49:12",
         "code": {
@@ -590,7 +590,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_12143135",
+        "serviceId": "12143135",
         "timestamp": "2020-07-15 / 09:49:12",
         "occurence": "2020-07-15 / 09:49:12",
         "code": {
@@ -600,7 +600,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_12143136",
+        "serviceId": "12143136",
         "timestamp": "2020-07-15 / 09:49:12",
         "occurence": "2020-07-15 / 09:49:12",
         "code": {
@@ -610,7 +610,7 @@
         "rtnCode": "00"
       },
       {
-        "serviceId": "10_12143137",
+        "serviceId": "12143137",
         "timestamp": "2020-07-15 / 09:49:12",
         "occurence": "2020-07-15 / 09:49:12",
         "code": {

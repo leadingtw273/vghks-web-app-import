@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const instance = axios.create({
-  baseURL: 'https://hapi.fhir.tw/fhir',
+  baseURL: 'http://192.168.229.104:3002/fhir',
   timeout: 10 * 1000,
 });
 
