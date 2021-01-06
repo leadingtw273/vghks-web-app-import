@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "better-logging": "^4.4.0",
     "dayjs": "^1.8.28",
     "eslint-config-prettier": "^6.11.0",
